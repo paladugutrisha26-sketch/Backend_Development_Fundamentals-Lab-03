@@ -1,7 +1,7 @@
 /**
  * Lab 3: REST API Development with Query Parameters, Validation, and Debugging
  * Course: Backend Development Fundamentals (Year II Term II)
- * Faculty: Joel Prashanth D
+ * Faculty: Sai Siva Theja
  * Student: Trisha
  * Registration Number: 252U1R1176
  * Section: CSE 2D

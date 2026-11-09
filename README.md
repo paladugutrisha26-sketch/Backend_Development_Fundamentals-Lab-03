@@ -7,7 +7,7 @@
 - **Section:** CSE 2D
 - **Course:** Backend Development Fundamentals (Year II Term II)
 - **Lab Number:** Lab 03
-- **Faculty:** Joel Prashanth D
+- **Faculty:** Sai Siva Theja
 - **Module:** RESTful API development and validation
 - **Repository:** [https://github.com/paladugutrisha26-sketch/Backend_Development_Fundamentals-Lab-03](https://github.com/paladugutrisha26-sketch/Backend_Development_Fundamentals-Lab-03)
 
