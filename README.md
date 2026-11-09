@@ -9,7 +9,7 @@
 - **Lab Number:** Lab 03
 - **Faculty:** Joel Prashanth D
 - **Module:** RESTful API development and validation
-- **Repository:** [https://github.com/trishachowdary6-lgtm/Backend_Development_Fundamentals-Lab-03](https://github.com/trishachowdary6-lgtm/Backend_Development_Fundamentals-Lab-03)
+- **Repository:** [https://github.com/paladugutrisha26-sketch/Backend_Development_Fundamentals-Lab-03](https://github.com/paladugutrisha26-sketch/Backend_Development_Fundamentals-Lab-03)
 
 ---
 
